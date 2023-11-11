@@ -4,4 +4,4 @@ FluentUIを採用したデスクトップ向けのMisskeyクライアントで�
 ##### これは進行中の作業です。<ins>**現在は利用できません。**</ins>
 
 ## todo
-#1を参照
+[#1](https://github.com/sonyakun/Lumina/issues/1)を参照
