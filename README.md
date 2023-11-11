@@ -6,6 +6,9 @@ FluentUIを採用したデスクトップ向けのMisskeyクライアントで�
 ## todo
 [#1](https://github.com/sonyakun/Lumina/issues/1)を参照
 
+## Images
+![gallery/home.png](gallery/home.png)
+
 ## Thanks
 このソフトウェアは以下のライブラリを利用しています。
 - [PyQt5](https://pypi.org/project/PyQt5/) by [Riverbank Computing](https://www.riverbankcomputing.com/software/pyqt/)
